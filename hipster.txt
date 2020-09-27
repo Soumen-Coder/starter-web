@@ -3,3 +3,8 @@ This is used for learning Git.
 
 some more paragraph
 some more thing
+
+some more text
+continue to edit files in git.
+
+some more modifying
