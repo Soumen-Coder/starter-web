@@ -1,0 +1,2 @@
+Gimme some text.
+This is used for learning Git.
