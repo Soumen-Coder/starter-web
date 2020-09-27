@@ -1,2 +1,5 @@
 Gimme some text.
 This is used for learning Git.
+
+some more paragraph
+some more thing
