@@ -8,7 +8,11 @@ This is an example to show various parts of the Git repository and various comma
 
 ## Purpose
 
+As stated above, the main purpose of the project is provide introduction of the Git training demos
+
 ## Deployment
+
+This is a simple web project deployment, can be on any web server or local system
 
 ## How to contribute
 
