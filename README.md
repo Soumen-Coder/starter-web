@@ -16,5 +16,8 @@ This is a simple web project deployment, can be on any web server or local syste
 
 ## How to contribute
 
+##copyright
+Copyright Git Training
+
 Sample website with plenty of files for demoss
 
