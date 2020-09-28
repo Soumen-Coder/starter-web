@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Soumen soumen.raj3@gmail.com
 
 # THANKS
 
